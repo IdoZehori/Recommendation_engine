@@ -1,2 +1,4 @@
 # Recommendation-engine
-collaborative filtering, Location Demographic Based
+Collaborative Filtering, Location and Demographic Based RE  
+
+Trained on the ml-100k dataset
